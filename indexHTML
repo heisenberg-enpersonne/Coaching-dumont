@@ -1,1 +1,33 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Forfait Découverte - Coaching Dumont</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>Forfait Découverte</h1>
+    <nav><a href="index.html">&larr; Retour à l'accueil</a></nav>
+  </header>
+  <main>
+    <section class="forfait-details">
+      <h2>1 séance pour faire le point et explorer vos besoins</h2>
+      <p>
+        Ce forfait vous permet d’avoir une première rencontre personnalisée avec notre coach pour analyser votre situation, vos objectifs et commencer à tracer un plan d’action adapté.
+      </p>
+      <ul>
+        <li>Durée : 1 séance d’1h30</li>
+        <li>Analyse personnalisée</li>
+        <li>Conseils pratiques immédiats</li>
+      </ul>
+      <p class="prix">Prix : 200€</p>
+    </section>
+  </main>
+  <footer>
+    © 2025 Coaching Dumont
+  </footer>
+</body>
+</html>
 
